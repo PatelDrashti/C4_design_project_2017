@@ -1,0 +1,26 @@
+﻿<Page x:Class="ApplicationNavigation.View.Page0"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Background="Azure" Height="400" Width="600" >
+
+
+    <Grid>
+        <Label Content="Choose a Class" HorizontalAlignment="Left" Margin="155,10,0,0" VerticalAlignment="Top" Height="57" Width="365" FontSize="36"/>
+        <Image x:Name="Warrior" HorizontalAlignment="Left" Height="100" Margin="25,81,0,0" VerticalAlignment="Top" Width="100" Source="c:\\images\\warrior.JPG" StretchDirection="DownOnly" Stretch="Fill">
+            <Image.ContextMenu>
+                <ContextMenu/>
+            </Image.ContextMenu>
+        </Image>
+        <Button x:Name="Btn_Warrior" Content="Warrior" HorizontalAlignment="Left" Height="52" Margin="25,210,0,0" VerticalAlignment="Top" Width="116" Click="Btn_Warrior_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="241,81,0,0" VerticalAlignment="Top" Width="108" Source="c:\\images\\Mage.JPG"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="437,81,0,0" VerticalAlignment="Top" Width="112" Source="c:\\images\\Theif.JPG"/>
+        <Button x:Name="Btn_Mage" Content=" Mage" HorizontalAlignment="Left" Height="52" Margin="231,210,0,0" VerticalAlignment="Top" Width="118" IsDefault="True" Click="Btn_Mage_Click"/>
+        <Button x:Name="Btn_Thief" Content=" Thief" HorizontalAlignment="Left" Margin="437,210,0,0" VerticalAlignment="Top" Width="112" Height="52" Click="Btn_Thief_Click"/>
+        <Button Content="Start Game" HorizontalAlignment="Left" Margin="231,291,0,0" VerticalAlignment="Top" Width="118" Click="Button_Click" Height="38"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="231,347,0,0" VerticalAlignment="Top" Width="118" Height="43" Click="Button_Click_1"/>
+
+    </Grid>
+
+
+
+
+</Page>

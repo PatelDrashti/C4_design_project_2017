@@ -1,0 +1,109 @@
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.exe
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.pdb
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\PersonAdminControl.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl1.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl2.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl3.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl4.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl5.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl6.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl7.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page3.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\PersonAdminControl.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl1.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl2.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl3.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl4.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl5.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl6.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\UserControl7.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\App.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation_MarkupCompile.cache
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation_MarkupCompile.lref
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page3.baml
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.g.resources
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.Properties.Resources.resources
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.exe
+\\Mac\Home\Desktop\Code Examples\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.pdb
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.exe
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.pdb
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.baml
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.baml
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.baml
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.baml
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\App.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation_MarkupCompile.cache
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.g.resources
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.Properties.Resources.resources
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csproj.GenerateResource.Cache
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csproj.CoreCompileInputs.cache
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.exe
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\MegaCardGame\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.pdb
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.exe
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.pdb
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.baml
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.baml
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.baml
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.baml
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\App.g.cs
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation_MarkupCompile.cache
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.g.resources
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.Properties.Resources.resources
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csproj.GenerateResource.Cache
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csproj.CoreCompileInputs.cache
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.exe
+\\Mac\Home\OneDrive\Jyo Studies\Game project\Solution Code\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.pdb
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.exe
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.pdb
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csprojResolveAssemblyReference.cache
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.baml
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.baml
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.baml
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.baml
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.g.cs
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.g.cs
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.g.cs
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\App.g.cs
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation_MarkupCompile.cache
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.g.resources
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.Properties.Resources.resources
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csproj.GenerateResource.Cache
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.exe
+C:\Users\Drashti Patel\Downloads\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.pdb
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csprojResolveAssemblyReference.cache
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.baml
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.baml
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.baml
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.baml
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page0.g.cs
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page1.g.cs
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\View\Page2.g.cs
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\App.g.cs
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation_MarkupCompile.cache
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.g.resources
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.csproj.GenerateResource.Cache
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.exe
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.pdb
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\obj\x86\Debug\ApplicationNavigation.Properties.Resources.resources
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.exe
+C:\Users\Drashti Patel\Desktop\Drashti\RPG Battle Game\C#\ApplicationNavigation\bin\Debug\ApplicationNavigation.pdb
